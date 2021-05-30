@@ -1,7 +1,13 @@
 # Redis Test By gin
 You can deploy a simple web api in 1min to test redis connection and got redis information. 
 
-Such as some docker environment that can't bin/sh directly (I mean AWS Fargate)
+Such as some docker environment that can't exec bin/sh into container directly (Such as AWS Fargate)
+
+# Feature
+- [x] simple connect and get origin info
+- [ ] show in beautiful page
+- [ ] more test allowed
+
 
 ## Usage
 
